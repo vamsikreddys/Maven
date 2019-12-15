@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21652" started-at="2019-12-15T15:39:42Z" finished-at="2019-12-15T15:40:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21652" started-at="2019-12-15T15:39:42Z" finished-at="2019-12-15T15:40:04Z">
+      <class name="testcase.FlipkartHomePageTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:testcase.FlipkartHomePageTest@ae45eb6]" name="preCondition" is-config="true" duration-ms="16573" started-at="2019-12-15T21:09:42Z" finished-at="2019-12-15T21:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="flipkartHomePageTest()[pri:0, instance:testcase.FlipkartHomePageTest@ae45eb6]" name="flipkartHomePageTest" duration-ms="3790" started-at="2019-12-15T21:09:58Z" finished-at="2019-12-15T21:10:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartHomePageTest -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.FlipkartHomePageTest@ae45eb6]" name="postCondition" is-config="true" duration-ms="1265" started-at="2019-12-15T21:10:02Z" finished-at="2019-12-15T21:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcase.FlipkartHomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

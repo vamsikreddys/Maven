@@ -1,0 +1,8 @@
+[INFO ] 2019-12-15 20:42:39.384 [main] SuperTestNG - Initiating the browser driver
+[INFO ] 2019-12-15 20:43:10.602 [main] SuperTestNG - Successfully Initiated the browser driver
+[INFO ] 2019-12-15 20:43:10.666 [main] SuperTestNG - Test case Started : flipkartHomePageTest
+[INFO ] 2019-12-15 20:43:11.582 [main] SuperTestNG - Successfully retrived the page title
+[INFO ] 2019-12-15 20:43:14.367 [main] SuperTestNG - Waiting for2000
+[INFO ] 2019-12-15 20:43:14.374 [main] SuperTestNG - Successfully retrived the page title
+[INFO ] 2019-12-15 20:43:16.918 [main] SuperTestNG - Test Successfully Completed : flipkartHomePageTest
+[INFO ] 2019-12-15 20:43:18.941 [main] SuperTestNG - Succesfully closed the driver
