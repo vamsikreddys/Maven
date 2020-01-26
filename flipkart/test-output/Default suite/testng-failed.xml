@@ -6,15 +6,4 @@
       <class name="testcase.FlipkartHomePageTest"/>
     </classes>
   </test> <!-- Default test -->
-  <test name="Default test(failed)">
-    <classes>
-      <class name="testcase.FlipkartHomePageTest">
-        <methods>
-          <include name="postCondition"/>
-          <include name="flipkartHomePage_Test"/>
-          <include name="preCondition"/>
-        </methods>
-      </class> <!-- testcase.FlipkartHomePageTest -->
-    </classes>
-  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

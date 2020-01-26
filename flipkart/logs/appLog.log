@@ -6,3 +6,9 @@
 [INFO ] 2019-12-15 21:10:01.736 [main] SuperTestNG - Successfully retrieved the page title
 [INFO ] 2019-12-15 21:10:02.756 [main] SuperTestNG - Test Successfully Completed : flipkartHomePageTest
 [INFO ] 2019-12-15 21:10:04.019 [main] SuperTestNG - Successfully closed the driver
+[INFO ] 2020-01-25 20:52:49.650 [main] SuperTestNG - Initiating the browser driver
+[INFO ] 2020-01-25 20:53:02.634 [main] SuperTestNG - Successfully Initiated the browser driver
+[INFO ] 2020-01-25 20:53:03.286 [main] SuperTestNG - Successfully retrieved the page title
+[INFO ] 2020-01-25 20:53:05.833 [main] SuperTestNG - Waiting for 2000miliseconds
+[INFO ] 2020-01-25 20:53:05.927 [main] SuperTestNG - Successfully retrieved the page title
+[INFO ] 2020-01-25 20:53:11.343 [main] SuperTestNG - Successfully closed the driver
